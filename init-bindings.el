@@ -42,7 +42,7 @@
 ;; Open project drawer
 (global-set-key (kbd "M-p") 'project-explorer-open)
 
-;; Add a fullscreen toggle - TODO: reenable in next Emacs release
+;; Add a fullscreen toggle.
 (global-set-key (kbd "M-RET") 'toggle-frame-fullscreen)
 
 ;; Replace standard goto-line with goto-line-with-feedback
